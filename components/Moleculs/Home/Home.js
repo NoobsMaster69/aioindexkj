@@ -33,7 +33,7 @@ const Project = () => {
     {
       title: "Team Drive 1 ",
       desc: "Berisi kumpulan software, film, musik dan masih banyak lagi.",
-      link: "https://drivekj.my.id/0:/Data/",
+      link: "https://latest.12tkj2gay.workers.dev/Data/",
       date: "Aio Index",
     },
     {
