@@ -45,7 +45,7 @@ const Project = () => {
     {
       title: "Team Drive 3",
       desc: "Berisi hanya wallpaper",
-      link: "/planteria",
+      link: "https://drive.google.com/drive/u/1/folders/1Us0SXGclrsJd8Tnj3-XwrLnj3e6apskE",
       date: "Wallpaper Index",
     },
     {
