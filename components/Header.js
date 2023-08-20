@@ -102,7 +102,7 @@ export function Header() {
         </div>
         <div className="flex justify-end md:flex-1">
           <div className="pointer-events-auto">
-        
+         <ModeToggle />
           </div>
         </div>
       </div>
