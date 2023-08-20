@@ -13,7 +13,7 @@ const Page404Error = () => {
               }
               width={112}
               height={112}
-              alt={"Profile"}
+              alt={"Logo"}
             />
           </div>
           <div className="py-16">
@@ -29,7 +29,7 @@ const Page404Error = () => {
               </p>
               <div className="mt-6">
                 <a
-                  href="#"
+                  href="/"
                   className="text-base font-medium text-indigo-600 dark:text-indigo-500 hover:text-indigo-500"
                 >
                   Go back home
