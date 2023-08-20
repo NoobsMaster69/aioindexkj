@@ -8,7 +8,7 @@ export default function About() {
           </h1>
           <p className="text-woodsmoke-500 dark:text-woodsmoke-300 mt-8">
            Awal mula DriveTKJ dibuat itu sebelum pandemi. Saya membuat web ini karena keluh kesah teman sekelas saya yang tidak modal
-           dia berkeluh kesah seperti ini "Duhh download film gratis kok ribet banget banyak iklan" yaa walaupun di dalam hati saya
+           dia berkeluh kesah seperti ini Duhh download film gratis kok ribet banget banyak iklan yaa walaupun di dalam hati saya
            berbicara udahh bajakan kok maunya simpel saja.
           </p>
           <p className="text-woodsmoke-500 dark:text-woodsmoke-300 mt-8">
