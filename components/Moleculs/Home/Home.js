@@ -33,26 +33,20 @@ const Project = () => {
     {
       title: "Team Drive 1 ",
       desc: "Berisi kumpulan software, film, musik dan masih banyak lagi.",
-      link: "https://latest.12tkj2gay.workers.dev/Data/",
+      link: "https://drivekj.tech/0:/Data",
       date: "Aio Index",
     },
     {
       title: "Team Drive 2",
       desc: "Berisi hanya film dan series terbaru jika tidak ada film yang di cari kembali ke team drive 1.",
-      link: "https://drivekjeh.me/0:/",
-      date: "Movie & Series Index",
+      link: "https://drivekj.tech/0:/Data/",
+      date: "Movies & Series Index",
     },
     {
       title: "Team Drive 3",
       desc: "Berisi hanya wallpaper",
       link: "https://drive.google.com/drive/u/1/folders/1Us0SXGclrsJd8Tnj3-XwrLnj3e6apskE",
       date: "Wallpaper Index",
-    },
-    {
-      title: "Team Drive 69",
-      desc: "lol",
-      link: "apacoba",
-      date: "69",
     },
   ];
 
