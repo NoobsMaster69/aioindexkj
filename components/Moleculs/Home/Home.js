@@ -3,7 +3,7 @@ import Link from "next/link";
 import { TypeAnimation } from "react-type-animation";
 
 const description =
-  "Web ini merupakan gerbang utama untuk menuju beberapa index yang apabila suatu link mati dan mengganti domainya kalian tidak pusing untuk mengahafalnya. Gunakan Web ini selagi masih ada";
+  "Web ini merupakan gerbang utama untuk menuju beberapa index yang apabila suatu link mati dan mengganti domainya kalian tidak pusing untuk mengahafalnya. Jika film yang kalian cari tidak ada coba gunakan judul lengkap dari film tersebut. Gunakan Web ini selagi masih ada";
 
 
 const ArrowRightIcon = (props) => {
@@ -32,14 +32,14 @@ const Project = () => {
   let listProject = [
     {
       title: "Team Drive 1 ",
-      desc: "Berisi kumpulan software, film, musik dan masih banyak lagi.",
+      desc: "Berisi kumpulan software, film, musik dan masih banyak lagi. Jika film yang kalian cari tidak ada pilih Team Drive 2",
       link: "https://drivekj.tech/0:/Data/",
       date: "Aio Index",
     },
     {
       title: "Team Drive 2",
       desc: "Berisi hanya film dan series terbaru jika tidak ada film yang di cari kembali ke team drive 1.",
-      link: "https://drivekj.tech/0:/Data/",
+      link: "https://drivekjeh.me/0:/",
       date: "Movies & Series Index",
     },
     {
