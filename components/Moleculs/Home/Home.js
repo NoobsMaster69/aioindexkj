@@ -87,7 +87,7 @@ const Home = () => {
       <Image
         src={"/LOGO.png"}
         className={
-          "w-15 h-15 rounded-full border-2 border-woodsmoke-50 dark:border-woodsmoke-800"
+            "w-15 h-15 rounded-full border-2 border-transparent"
         }
         width={64}
         height={64}
